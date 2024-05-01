@@ -2,7 +2,7 @@
 
 Collaborative, multi-user cardiovascular surgical planning in mobile Augmented Reality.
 
-%% Add Figure
+![Screenshot 2024-05-01 at 2 15 02 PM](https://github.com/poloclub/arcollab/assets/23846495/6d86bd26-870d-4d69-85b9-b28523875e3b)
 
 ## What is ARCollab?
 
@@ -24,22 +24,25 @@ ARCollab supports both single-user and multi-user sessions. It is simple to star
 
 Control the mode using the control at the bottom-right. Choose ‘View’ to control the heart’s orientation and scale, and ’Slice’ to perform omni-directional slicing.
 
-%% Add GIFS
+In view mode, you can use the following gestures:
+- **Rotation** to twist
+- **Pinch** to scale
+- **Pan** to rotate
 
-5. In view mode, you can use the following gestures:
-    - **Rotation** to twist
-    - **Pinch** to scale
-    - **Pan** to rotate
-7. In slice mode, you can use the following gestures:
+![model transform](https://github.com/poloclub/arcollab/assets/23846495/31dde993-3141-4e88-b00c-12b844b0b836)
+
+In slice mode, you can use the following gestures:
     - **Rotation** to twist
     - **Pinch** to translate
     - **Pan** to rotate
+
+![slicing](https://github.com/poloclub/arcollab/assets/23846495/00d4c931-a54a-489e-b20a-c97612b05cc8)
 
 ### Save and load the model
 
 Use the ’save’ button at the top-right to save your model’s current orientation properties, and load it back later.
 
-%% Add GIF
+![save_load](https://github.com/poloclub/arcollab/assets/23846495/c0738de9-574d-4151-8eb6-9c3246c6d342)
 
 ## Credits
 
