@@ -2,6 +2,9 @@
 
 Collaborative, multi-user cardiovascular surgical planning in mobile Augmented Reality.
 
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+[![arxiv badge](https://img.shields.io/badge/arXiv-2408.03249-red)](https://arxiv.org/pdf/2408.03249)
+
 ![Screenshot 2024-05-01 at 2 15 02 PM](https://github.com/poloclub/arcollab/assets/23846495/6d86bd26-870d-4d69-85b9-b28523875e3b)
 
 ## What is ARCollab?
